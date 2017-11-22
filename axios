@@ -415,3 +415,5 @@ axios包括TypeScript定义。
 import axios from 'axios';
 axios.get('/user?ID=12345');
 axios在很大程度上受到Angular提供的$http服务的启发。 最终，axios努力提供一个在Angular外使用的独立的$http-like服务。
+
+参考网址：https://ykloveyxk.github.io/2017/02/25/axios%E5%85%A8%E6%94%BB%E7%95%A5/
